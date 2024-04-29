@@ -7,10 +7,7 @@
 
 # Latest Evilginx 3.4.1 - Modified by @HosterMSG
 
-
-~~ OLD VERSION ~~~
-https://github.com/EvilHoster/evilginx-3.4.0-telegram-modification
-~~ OLD VERSION ~~~
+![alt text](https://github.com/EvilHoster/EvilGinx2-3.4.1-Modification/blob/main/screenshot.jpg?raw=true)
 
 
 
@@ -67,6 +64,9 @@ Add to your Telegram group https://t.me/raw_data_bot and your Group Chat ID will
 
 
 
+~~ OLD VERSION ~~~
+https://github.com/EvilHoster/evilginx-3.4.0-telegram-modification
+~~ OLD VERSION ~~~
 
 
 
