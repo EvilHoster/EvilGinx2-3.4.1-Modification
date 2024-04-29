@@ -28,11 +28,11 @@ On Ubuntu:
 
 1. git clone https://github.com/EvilHoster/EvilGinx2-3.4.1-Modification
 2. cd evilginx-3.4.0-telegram-modification
-2.1 unzip evilhoster.zip
-2.2 cd evilhoster
-3. cd build
-4. chmod +rwx evilginx
-5. ./evilginx -p ../phishlets/
+3. unzip evilhoster.zip
+4. cd evilhoster
+5. cd build
+6. chmod +rwx evilginx
+7. ./evilginx -p ../phishlets/
 
 Setup your configuration.
 
