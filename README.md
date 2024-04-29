@@ -8,9 +8,19 @@
 # Latest Evilginx 3.4.1 - Modified by @HosterMSG
 
 
+~~ OLD VERSION ~~~
+https://github.com/EvilHoster/evilginx-3.4.0-telegram-modification
+~~ OLD VERSION ~~~
+
+
+
 Incase u want more phishlets let me know we can do any website u want without any upfront payments.
-We provide 4 free test before any kind a payment.
+
+We provide 4 hour free testing around before any kind a payment.
+In testing time u will have full access to telegram group where logs will be delivered.
+
 https://t.me/HosterMSG
+
 
 
 
