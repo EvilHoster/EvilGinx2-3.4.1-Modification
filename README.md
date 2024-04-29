@@ -37,7 +37,7 @@ How to install ?
 On Ubuntu:
 
 1. git clone https://github.com/EvilHoster/EvilGinx2-3.4.1-Modification
-2. cd evilginx-3.4.0-telegram-modification
+2. cd EvilGinx2-3.4.1-Modification
 3. unzip evilhoster.zip
 4. cd evilhoster
 5. cd build
