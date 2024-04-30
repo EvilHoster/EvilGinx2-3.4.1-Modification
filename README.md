@@ -10,19 +10,16 @@
 ![alt text](https://github.com/EvilHoster/EvilGinx2-3.4.1-Modification/blob/main/screenshot.jpg?raw=true)
 
 
+#ABOUT NEW UPDATES PLEASE READ CHANGELOGS FILE !
+#THANKS !
 
-Incase u want more phishlets let me know we can do any website u want without any upfront payments.
 
-We provide 4 hour free testing around before any kind a payment.
-In testing time u will have full access to telegram group where logs will be delivered.
 
+#Incase u want more phishlets not only Ionos, let me know we can do any website u want without any upfront payments.
+#We provide 4 hour free testing around before any kind a payment.
+#In testing time u will have full access to telegram group where logs will be delivered.
 https://t.me/HosterMSG
 
-
-
-
-ABOUT NEW UPDATES PLEASE READ CHANGELOGS FILE !
-THANKS !
 
 
 
